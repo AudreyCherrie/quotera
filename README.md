@@ -18,10 +18,10 @@ To visit this website one needs a web browser.
 ## Known Bugs
 No bugs detected on the application.
 
-##Technologies Used
+## Technologies Used
 Angular version 6.0.
 
-##Support and contact details
+##  Support and contact details
 incase you are not able to view certain applications or parts of the website feel free to submit an email to mitchelaudrey@gmail.com / mitchelaudrey@icloud.com
 
 ## Copyright and License information
